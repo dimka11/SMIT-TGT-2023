@@ -21,13 +21,13 @@ https://www.kaggle.com/code/dimka11/smit-tgt-2023-catboost-fft-ts-fresh
 
 Для получения результата использовались блокноты:
 
-[smit-tgt-2023-bidirectional-lstm](https://github.com/dimka11/SMIT-TGT-2023/blob/main/smit-tgt-2023-bidirectional-lstm.ipynb)
+[smit-tgt-2023-catboost-fft-ts-fresh](https://github.com/dimka11/SMIT-TGT-2023/blob/main/smit-tgt-2023-catboost-fft-ts-fresh.ipynb)
 
 1.  созданные руками фичи
 2.  Фичи созданные библиотекой ts-fresh
 3.  Фичи созданные библиотекой ts-fresh + Кросс-валидация с усреднением предсказаний
 
-[smit-tgt-2023-catboost-fft-ts-fresh](https://github.com/dimka11/SMIT-TGT-2023/blob/main/smit-tgt-2023-catboost-fft-ts-fresh.ipynb)
+[smit-tgt-2023-bidirectional-lstm](https://github.com/dimka11/SMIT-TGT-2023/blob/main/smit-tgt-2023-bidirectional-lstm.ipynb)
 
 Два предсказания с разными параметрами MEL преобразования
 
